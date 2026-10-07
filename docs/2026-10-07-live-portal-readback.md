@@ -32,3 +32,7 @@ live program inventory
   -> approve one external action
   -> read the result before adding volume
 ```
+
+## Stack lesson
+
+Apollo read-only authentication was subsequently verified for the SDR workspace, with 75 lead credits remaining and no waterfall enrichment enabled. No prospecting, export or sequence enrollment was performed. Canva remained unavailable as a connected workspace integration, so the campaign rehearsal used approved Portal assets and copy rather than inventing a creative dependency.

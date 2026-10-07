@@ -41,6 +41,8 @@ The agent works because it keeps state visible, uses a bounded campaign contract
 ## Field manual
 
 - [Agent operating manual](docs/agent-operating-manual.md): the complete model, roles, states, controls and rationale.
+- [Internal agent design](docs/agent-design-internal.md): the full internal copy with implementation, tool and control details.
+- [Public Academy agent design](docs/agent-design-public.md): the sanitised version prepared for Jary Portal Academy publication.
 - [Methodology and reasoning](docs/methodology-and-reasoning.md): when and why to use ABM, Challenger, SPICED, MEDDPICC and the Portal GTM readiness gates.
 - [Campaign runbook](docs/campaign-runbook.md): the repeatable step-by-step execution sequence and required artifacts.
 - [Tool and data operating model](docs/tool-and-data-operating-model.md): source authority, integration classes, read/write boundaries and handoffs.

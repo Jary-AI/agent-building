@@ -14,6 +14,8 @@ This map records the repositories used to ground the SDR agent build. Repository
 | [`Jary-AI/jary-wiki`](https://github.com/Jary-AI/jary-wiki) | Durable cross-workspace learning and accepted operating decisions | Long-lived learning authority |
 | [`Jary-AI/agent-building`](https://github.com/Jary-AI/agent-building) | This repository: methodology, agent design rationale, build experience and reusable field notes | How the SDR agent is built and improved |
 
+The repository keeps two copies of the design: [`agent-design-internal.md`](agent-design-internal.md) is the complete operating copy; [`agent-design-public.md`](agent-design-public.md) is the Academy-safe educational copy. The public copy must be reviewed for product claims, language and Portal publication before it is published.
+
 ## Supporting product and release references
 
 These repositories were used as the surrounding reference set for product, release and system claims, and should be checked when a campaign depends on their subject matter:

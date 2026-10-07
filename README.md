@@ -45,6 +45,7 @@ The agent works because it keeps state visible, uses a bounded campaign contract
 - [Campaign runbook](docs/campaign-runbook.md): the repeatable step-by-step execution sequence and required artifacts.
 - [Tool and data operating model](docs/tool-and-data-operating-model.md): source authority, integration classes, read/write boundaries and handoffs.
 - [Suggested tech stack](docs/suggested-tech-stack.md): free-first architecture, current readiness, licensing boundaries and upgrade triggers.
+- [Reference repositories](docs/reference-repositories.md): repositories used, authority by question and provenance for this build.
 - [QA and learning loop](docs/qa-and-learning-loop.md): evidence quality, failure patterns, outcome metrics and self-improvement rules.
 - [Initial build log](docs/2026-10-07-initial-sdr-agent-build.md): the first design decisions.
 - [Live Portal readback](docs/2026-10-07-live-portal-readback.md): the observed program inventory and first campaign choice.

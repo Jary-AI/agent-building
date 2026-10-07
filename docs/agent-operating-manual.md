@@ -1,5 +1,7 @@
 # SDR Agent Operating Manual
 
+Read [Reference Repositories](reference-repositories.md) before changing a product claim, campaign proposition, source hierarchy or learning rule.
+
 **Status:** Reusable operating model, derived from the 2026-10-07 SDR build work.
 **Audience:** Founder, human SDR operator, campaign owner, product or partner lead and future agent implementer.
 

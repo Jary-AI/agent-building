@@ -38,6 +38,14 @@ live source
 
 The agent works because it keeps state visible, uses a bounded campaign contract, separates observation from inference, and treats downstream progress as the success signal. It does not rely on volume, generic personalisation or a large tool count.
 
+## Principle and practice
+
+The design has two commitments. First, the agent prepares decisions instead of pretending to replace judgement. Second, every useful action must create evidence for the next decision.
+
+In practice, each campaign follows the same discipline: read the live source, choose one programme, build the evidence card, define the smallest useful offer, prepare channel-specific assets, run QA, obtain human approval at the external-action boundary, read the result and record the learning. The method can use different frameworks and tools, but the sequence and evidence standard stay stable.
+
+The repository keeps the full internal design and a separate public Academy design. The public copy is an educational adaptation and must be checked against current product, release, brand, marketing and Portal sources before publication.
+
 ## Field manual
 
 - [Agent operating manual](docs/agent-operating-manual.md): the complete model, roles, states, controls and rationale.

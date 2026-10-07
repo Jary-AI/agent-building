@@ -36,3 +36,13 @@ live program inventory
 ## Stack lesson
 
 Apollo read-only authentication was subsequently verified for the SDR workspace, with 75 lead credits remaining and no waterfall enrichment enabled. No prospecting, export or sequence enrollment was performed. Canva remained unavailable as a connected workspace integration, so the campaign rehearsal used approved Portal assets and copy rather than inventing a creative dependency.
+
+## Later same-day update
+
+The Portal catalogue was reread after a production update. The active set changed to Partner Attach, ClickUp Resale and xOS Growth; prior programs were archived. xOS Growth is the strongest current launch candidate because it has 6/6 readiness gates. Partner Attach has 5/6 gates. ClickUp Resale is active but conflicts with the no-ClickUp SDR operating rule and must be held for an explicit strategy decision.
+
+The catalogue header also reported one published and one active program while three visible cards were marked active. This is a data-quality defect, not a campaign result.
+
+## Operating scope update
+
+The owner assigned Partner Attach to Velora. The SDR agent therefore operates **xOS Growth** first and **ClickUp Resale** second, while keeping ClickUp out of the task-management and synchronization stack. This is a campaign-scope decision, not a reintroduction of ClickUp as an internal operating dependency.
